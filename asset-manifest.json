@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QR-Code-Generator/static/css/main.a03c41b1.css",
+    "main.js": "/QR-Code-Generator/static/js/main.321a2a91.js",
+    "index.html": "/QR-Code-Generator/index.html",
+    "main.a03c41b1.css.map": "/QR-Code-Generator/static/css/main.a03c41b1.css.map",
+    "main.321a2a91.js.map": "/QR-Code-Generator/static/js/main.321a2a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a03c41b1.css",
+    "static/js/main.321a2a91.js"
+  ]
+}
